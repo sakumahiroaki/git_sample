@@ -4,6 +4,7 @@ def sum(a, b):
 def main():
     a = 5
     b = 3
+    print("Git training")
     print(sum(a, b))
 
 if __name__ == "__main__":
